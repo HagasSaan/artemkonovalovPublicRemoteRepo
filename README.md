@@ -1,6 +1,6 @@
 # artemkonovalovPublicRemoteRepo
 
-Changes via WebUI
+Typing something to create merge conflict
 
 Max Vinogradov was here
 
