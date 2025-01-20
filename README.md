@@ -2,7 +2,5 @@
 
 Making conflict
 
-Max Vinogradov was here
-
-Artem Konovalov cocet xyu
+Max Vinogradov cocet xyu y Artem Konovalov 
 
